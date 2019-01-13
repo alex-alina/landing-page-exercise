@@ -8,4 +8,4 @@ Practice project used to learn HTML5 and CSS3.
 Part of freeCodeCamp's assignments included in the Responsive Web Certification.
 
 ### License
-MIT Licence - Copyright (c) 2018 - Alina Rusu
+MIT Licence - Copyright &copy; 2018 - Alina Rusu
